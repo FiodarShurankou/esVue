@@ -1,0 +1,16 @@
+{
+  "scripts": {
+    "dev": "vite --port 8000 --host localhost",
+    "build": "vite build",
+    "preview": "vite preview --port 8000"
+  },
+  "dependencies": {
+    "pinia": "^2.0.22",
+    "vue": "^3.2.38"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^3.0.3",
+    "sass": "^1.55.0",
+    "vite": "^3.0.9"
+  }
+}
